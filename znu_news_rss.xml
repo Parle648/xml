@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="znu_news_rss.xslt"?>
+<rss version="2.0">
+  <channel>
+    <title>Новини KNTU</title>
+    <link>http://kntu.net.ua/</link>
+    <description>Останні новини Кіровоградського національного технічного університету</description>
+    <language>uk</language>
+    <pubDate>Sat, 10 May 2025 09:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 09:10:00 GMT</lastBuildDate>
+
+    <item>
+      <title>День відкритих дверей</title>
+      <link>http://kntu.net.ua/news/1</link>
+      <description>У KNTU відбувся день відкритих дверей для абітурієнтів.</description>
+      <pubDate>Thu, 08 May 2025 08:30:00 GMT</pubDate>
+      <guid>http://kntu.net.ua/news/1</guid>
+    </item>
+
+    <item>
+      <title>Олімпіада з інформатики</title>
+      <link>http://kntu.net.ua/news/2</link>
+      <description>Проведено регіональну студентську олімпіаду з інформатики.</description>
+      <pubDate>Wed, 07 May 2025 10:00:00 GMT</pubDate>
+      <guid>http://kntu.net.ua/news/2</guid>
+    </item>
+
+    <item>
+      <title>Новий корпус університету</title>
+      <link>http://kntu.net.ua/news/3</link>
+      <description>Відкрито новий корпус KNTU з сучасними лабораторіями.</description>
+      <pubDate>Tue, 06 May 2025 14:45:00 GMT</pubDate>
+      <guid>http://kntu.net.ua/news/3</guid>
+    </item>
+
+    <item>
+      <title>Наукова конференція 2025</title>
+      <link>http://kntu.net.ua/news/4</link>
+      <description>Підсумки наукової конференції молодих дослідників у KNTU.</description>
+      <pubDate>Mon, 05 May 2025 09:30:00 GMT</pubDate>
+      <guid>http://kntu.net.ua/news/4</guid>
+    </item>
+
+    <item>
+      <title>Нова навчальна програма</title>
+      <link>http://kntu.net.ua/news/5</link>
+      <description>Університет запровадив нову навчальну програму з кібербезпеки.</description>
+      <pubDate>Sun, 04 May 2025 11:15:00 GMT</pubDate>
+      <guid>http://kntu.net.ua/news/5</guid>
+    </item>
+
+  </channel>
+</rss>
